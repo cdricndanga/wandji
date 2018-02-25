@@ -1,0 +1,18 @@
+.each_desc{
+	border:1px solid black;
+	max-width:960px;
+	margin:auto;
+	margin-bottom:10px;
+	border-radius:10px;
+	padding:5px;
+	box-shadow:5px 5px 5px black;
+}
+.each_desc:hover{
+	box-shadow:10px 10px 10px black;
+}
+.nom{
+	border-bottom:1px solid black;
+}
+.checkboxes{
+	float:right;
+}
